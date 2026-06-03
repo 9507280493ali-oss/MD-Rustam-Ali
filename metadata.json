@@ -1,0 +1,6 @@
+{
+  "name": "TeenPay",
+  "description": "Comprehensive payment and financial app for teens featuring UPI, secure TeenX Card controls, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
